@@ -5,7 +5,7 @@
     "code": "EE"
   },
   "lab": "Power Electronics - 1",
-  "lab_display_name": "Power Electronics – 1",
+  "lab_display_name": "Power Electronics - 1",
   "phase": "3-ext",
   "collegeName": "IITD",
   "baseUrl": "pe1-iitd.vlabs.ac.in",
@@ -15,76 +15,80 @@
       "name": "Characteristics of controlled switching power devices. (a) SCR (b) MOSFET (c) IGBT",
       "short-name": "controlled-switching",
       "repo": "https://github.com/virtual-labs/exp-controlled-switching-power-devices-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Performance measurement and analysis of single phase AC-DC uncontrolled bridge rectifier",
       "short-name": "single-phase-uncontrolled",
       "repo": "https://github.com/virtual-labs/exp-single-phase-uncontrolled-bridge-rectifier-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Performance measurement and analysis of single phase AC-DC controlled bridge rectifier",
       "short-name": "single-phase-controlled",
       "repo": "https://github.com/virtual-labs/exp-single-phase-controlled-bridge-rectifier-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Performance measurement and analysis of three phase AC-DC uncontrolled bridge rectifiers",
       "short-name": "three-phase-uncontrolled",
       "repo": "https://github.com/virtual-labs/exp-three-phase-uncontrolled-bridge-rectifier-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Performance measurement and analysis of non-isolated DC-DC boost converter",
       "short-name": "non-isolated-boost-converter",
       "repo": "https://github.com/virtual-labs/exp-non-isolated-boost-converter-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Performance measurement and analysis of single phase AC voltage controller",
       "short-name": "single-phase-voltage-controller",
       "repo": "https://github.com/virtual-labs/exp-single-phase-voltage-controller-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Performance measurement and analysis of three phase AC-DC Controlled bridge rectifiers",
       "short-name": "three-phase-controlled-bridge",
       "repo": "https://github.com/virtual-labs/exp-three-phase-controlled-bridge-rectifiers-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Single phase IGBT inverter under sinusoidal PWM control",
       "short-name": "single-phase-sinusoidal-pwm",
       "repo": "https://github.com/virtual-labs/exp-single-phase-sinusoidal-pwm-control-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Three phase IGBT inverter under sinusoidal PWM control",
       "short-name": "three-phase-sinusoidal-pwm",
       "repo": "https://github.com/virtual-labs/exp-three-phase-sinusoidal-pwm-control-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.0",
       "deploy": true
     },
     {
       "name": "Performance measurement and analysis of isolated DC-DC flyback converter",
       "short-name": "isolated-flyback-converter",
       "repo": "https://github.com/virtual-labs/exp-isolated-flyback-converter-iitd",
-      "tag": "v1.0.1",
+      "tag": "v1.0.0",
       "deploy": true
     }
   ],
   "targetAudience": {
-    "UG": [" B.E/B.Tech – (Electrical/ Electronics/Electrical Instrumentation and Allied Engineering streams"],
-    "PG": ["M.E/M.S/M.Tech (Power Electronics/ Power Electronics and Drives/ Industrial Electronics/ Power and Industrial Drives/ Allied Engineering streams"]
+    "UG": [
+      " B.E/B.Tech â (Electrical/ Electronics/Electrical Instrumentation and Allied Engineering streams"
+    ],
+    "PG": [
+      "M.E/M.S/M.Tech (Power Electronics/ Power Electronics and Drives/ Industrial Electronics/ Power and Industrial Drives/ Allied Engineering streams"
+    ]
   },
   "objective": "To supplement the Theory Course of Power Electronics with Simulation and Laboratory experiments.",
   "courseAlignment": {
@@ -99,5 +103,4 @@
       "VR Siddhartha Engineering College"
     ]
   }
-  
 }
