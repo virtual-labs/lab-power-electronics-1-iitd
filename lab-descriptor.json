@@ -92,7 +92,7 @@
     },
     "objective": "The objective of this lab is to perform experiments to firstly understand the various power electronic switching devices, followed by the power conversion schemes using power electronics circuits: <br>AC - DC Conversion <br>DC - DC Conversion<br>DC - AC Conversion<br>AC - AC Conversion",
     "courseAlignment": {
-        "description": "",
+        "description": "Sample List of Institutes/Departments Laboratory Courses/Curriculum:",
         "universities": [
             "Dept. of Electrical Engineering, National Institute of Technology Warangal",
             "Dept. of Electrical Engineering, National Institute of Technology Calicut",
